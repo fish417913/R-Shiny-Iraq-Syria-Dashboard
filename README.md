@@ -1,4 +1,4 @@
-# github-move
+# R-Shiny-Iraq-Syria-Dashboard
 
 This is an interactive R Shiny app, which visualizes terrorist attacks conducted in Iraq and Syria from the 1970's-2016.  Data was visualized
 via ggplot2 and made interactive with Plot.ly wrappers.  The geocoordinates were geospatially rendered, which enabled me to label each
